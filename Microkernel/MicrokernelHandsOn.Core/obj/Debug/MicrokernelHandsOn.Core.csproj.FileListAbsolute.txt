@@ -1,0 +1,12 @@
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\Plugin.config
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\MicrokernelHandsOn.Core.exe.config
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\MicrokernelHandsOn.Core.exe
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\MicrokernelHandsOn.Core.pdb
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\MicrokernelHandsOn.Contract.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\bin\Debug\MicrokernelHandsOn.Contract.pdb
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.csproj.AssemblyReference.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.csproj.CoreCompileInputs.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.csproj.CopyComplete
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.exe
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Core\obj\Debug\MicrokernelHandsOn.Core.pdb

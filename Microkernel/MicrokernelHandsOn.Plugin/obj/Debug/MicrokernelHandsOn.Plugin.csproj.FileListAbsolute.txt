@@ -1,0 +1,9 @@
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\bin\Debug\MicrokernelHandsOn.Plugin.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\bin\Debug\MicrokernelHandsOn.Plugin.pdb
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\bin\Debug\MicrokernelHandsOn.Contract.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\bin\Debug\MicrokernelHandsOn.Contract.pdb
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\obj\Debug\MicrokernelHandsOn.Plugin.csproj.AssemblyReference.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\obj\Debug\MicrokernelHandsOn.Plugin.csproj.CoreCompileInputs.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\obj\Debug\MicrokernelHandsOn.Plugin.csproj.CopyComplete
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\obj\Debug\MicrokernelHandsOn.Plugin.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Plugin\obj\Debug\MicrokernelHandsOn.Plugin.pdb

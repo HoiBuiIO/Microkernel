@@ -1,0 +1,6 @@
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\bin\Debug\MicrokernelHandsOn.Contract.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\bin\Debug\MicrokernelHandsOn.Contract.pdb
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\obj\Debug\MicrokernelHandsOn.Contract.csproj.AssemblyReference.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\obj\Debug\MicrokernelHandsOn.Contract.csproj.CoreCompileInputs.cache
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\obj\Debug\MicrokernelHandsOn.Contract.dll
+C:\Users\hoibui\Desktop\hoi\Microkernel\MicrokernelHandsOn.Contract\obj\Debug\MicrokernelHandsOn.Contract.pdb
